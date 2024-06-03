@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="breakingNewsLabel">Breaking News</string>
+    <string name="savedNewsLabel">Saved News</string>
+    <string name="searchNewLabel">Search News</string>
+    <string name="thePostLabel">The Washington Post</string>
+    <string name="timeLabel">2020-04-15</string>
+    <string name="beatLabel">Beat.vn</string>
+    <string name="searchingLabel">searching...</string>
+</resources>
